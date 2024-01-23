@@ -53,7 +53,7 @@ After you have ran this command the tokens.json file will appear at:
 
 Windows: `C:\\Users\\<username>\\AppData\\Local\\OpenXbox\\xbox`
 
-Create a folder called token and copy-paste the file into the folder.
+Create a folder called 'token' inside the project directory and copy-paste the file into the folder.
 
 
 ## Commands:
