@@ -34,7 +34,7 @@ This uses discord.py wrapper, and built-in Nitrado endpoint requests.
 Use config.py to configure bot settings. You will need to generate a [Nitrado Token](https://server.nitrado.net/eng/developer/tokens) and a [Discord Bot Token](https://discord.com/developers/docs/intro)
 
 ```py
-DISCORD_TOKEN = '' # Fill out your Discord Token
+    DISCORD_TOKEN = '' # Fill out your Discord Token
     NITRADO_TOKEN = ''
     XBOX_ID = ''
     XBOX_SECRET = ''
