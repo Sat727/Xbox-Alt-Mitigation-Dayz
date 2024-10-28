@@ -2,6 +2,8 @@
 
 I initially started this project for a client who ended up cancelling the commission after completion.
 
+This bot will detect alt accounts by utilizing Xbox API to disallow users below a certain gamerscore, follower count, or to flag potential alt accounts to prevent unfavorable people joining your server. This project took about 2 weeks and was cancelled after it was completed without payment.
+
 Here's a guide on how to setup, and use the bot
 
  ## Dependencies
