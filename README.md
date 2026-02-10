@@ -1,3 +1,6 @@
+### Update:
+This repository is still useful for Xbox API applications. However, I have recently added the ability to ban alt accounts using Device ID in my DayZ bot repository. You may view it here: https://github.com/Sat727/Dayz-Console-Killfeed
+
 # Console Alt Mitigation
 
 I initially started this project for a client who ended up cancelling the commission after completion.
